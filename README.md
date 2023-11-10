@@ -21,9 +21,9 @@ Os menus disponibilizados no sistema web são apenas para exemplos <br>
 DB_CONNECTION=mysql 
 DB_HOST=db 
 DB_PORT=3306 
-DB_DATABASE=cliente 
+DB_DATABASE=api_usuarios 
 DB_USERNAME=root 
-DB_PASSWORD=fer270587 
+DB_PASSWORD=uexozYAJe6QvOlS1JP32 
 ```
 
 ## Baixar bibliotecas
