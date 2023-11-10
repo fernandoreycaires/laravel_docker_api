@@ -15,9 +15,9 @@
 
 ```php
 DB_CONNECTION=mysql 
-DB_HOST=db_oficina 
+DB_HOST=db 
 DB_PORT=3306 
-DB_DATABASE=mecanica 
+DB_DATABASE=cliente 
 DB_USERNAME=root 
 DB_PASSWORD=fer270587 
 ```
