@@ -1,5 +1,5 @@
 # Sistema base em Laravel
-### Contem já configurado uma API de usuarios com JWT Token barear e sistema com uma interface Web 
+Contem já configurado uma API de usuarios com JWT Token barear e sistema com uma interface Web 
 
 ## Tecnologias
 
