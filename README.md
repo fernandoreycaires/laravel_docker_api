@@ -30,8 +30,11 @@ DB_PASSWORD=fer270587
 
 > Para instalar as dependencias: 
 
-`$ composer update` <br>
 `$ composer install` <br>
+
+> Para atualizar as dependencias
+
+`$ composer update` <br>
 
 ## Docker 
 
