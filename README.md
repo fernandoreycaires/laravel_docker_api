@@ -1,5 +1,6 @@
 # Sistema base em Laravel
-Contem já configurado uma API de usuarios com JWT Token barear e sistema com uma interface Web 
+Contém já configurado uma API de usuarios com autenticação JWT e uma interface Web com sistema de login e gerenciamento de usuários. <br>
+Os menus disponibilizados no sistema web são apenas para exemplos <br>
 
 ## Tecnologias
 
