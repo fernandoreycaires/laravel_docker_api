@@ -30,7 +30,7 @@ DB_PASSWORD=uexozYAJe6QvOlS1JP32
 
 ` $ sudo npm install ` <br>
 ` $ sudo npm run build ` <br>
-` $ php artisan migrate ` <br>
+` $ sudo docker compose exec app php artisan migrate ` <br>
 
 > Para instalar as dependencias: 
 
